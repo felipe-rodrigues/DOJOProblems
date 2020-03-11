@@ -1,0 +1,11 @@
+C:\Users\felipe.silva\Documents\Personal\DOJOProblems\CSharp\Dijkstra\bin\Debug\netcoreapp3.1\Dijkstra.exe
+C:\Users\felipe.silva\Documents\Personal\DOJOProblems\CSharp\Dijkstra\bin\Debug\netcoreapp3.1\Dijkstra.deps.json
+C:\Users\felipe.silva\Documents\Personal\DOJOProblems\CSharp\Dijkstra\bin\Debug\netcoreapp3.1\Dijkstra.runtimeconfig.json
+C:\Users\felipe.silva\Documents\Personal\DOJOProblems\CSharp\Dijkstra\bin\Debug\netcoreapp3.1\Dijkstra.runtimeconfig.dev.json
+C:\Users\felipe.silva\Documents\Personal\DOJOProblems\CSharp\Dijkstra\bin\Debug\netcoreapp3.1\Dijkstra.dll
+C:\Users\felipe.silva\Documents\Personal\DOJOProblems\CSharp\Dijkstra\bin\Debug\netcoreapp3.1\Dijkstra.pdb
+C:\Users\felipe.silva\Documents\Personal\DOJOProblems\CSharp\Dijkstra\obj\Debug\netcoreapp3.1\Dijkstra.csprojAssemblyReference.cache
+C:\Users\felipe.silva\Documents\Personal\DOJOProblems\CSharp\Dijkstra\obj\Debug\netcoreapp3.1\Dijkstra.AssemblyInfoInputs.cache
+C:\Users\felipe.silva\Documents\Personal\DOJOProblems\CSharp\Dijkstra\obj\Debug\netcoreapp3.1\Dijkstra.AssemblyInfo.cs
+C:\Users\felipe.silva\Documents\Personal\DOJOProblems\CSharp\Dijkstra\obj\Debug\netcoreapp3.1\Dijkstra.dll
+C:\Users\felipe.silva\Documents\Personal\DOJOProblems\CSharp\Dijkstra\obj\Debug\netcoreapp3.1\Dijkstra.pdb

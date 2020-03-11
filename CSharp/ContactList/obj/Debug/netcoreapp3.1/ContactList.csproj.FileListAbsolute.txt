@@ -1,0 +1,11 @@
+C:\Users\felipe.silva\Documents\Personal\DOJOProblems\CSharp\ContactList\bin\Debug\netcoreapp3.1\ContactList.exe
+C:\Users\felipe.silva\Documents\Personal\DOJOProblems\CSharp\ContactList\bin\Debug\netcoreapp3.1\ContactList.deps.json
+C:\Users\felipe.silva\Documents\Personal\DOJOProblems\CSharp\ContactList\bin\Debug\netcoreapp3.1\ContactList.runtimeconfig.json
+C:\Users\felipe.silva\Documents\Personal\DOJOProblems\CSharp\ContactList\bin\Debug\netcoreapp3.1\ContactList.runtimeconfig.dev.json
+C:\Users\felipe.silva\Documents\Personal\DOJOProblems\CSharp\ContactList\bin\Debug\netcoreapp3.1\ContactList.dll
+C:\Users\felipe.silva\Documents\Personal\DOJOProblems\CSharp\ContactList\bin\Debug\netcoreapp3.1\ContactList.pdb
+C:\Users\felipe.silva\Documents\Personal\DOJOProblems\CSharp\ContactList\obj\Debug\netcoreapp3.1\ContactList.csprojAssemblyReference.cache
+C:\Users\felipe.silva\Documents\Personal\DOJOProblems\CSharp\ContactList\obj\Debug\netcoreapp3.1\ContactList.AssemblyInfoInputs.cache
+C:\Users\felipe.silva\Documents\Personal\DOJOProblems\CSharp\ContactList\obj\Debug\netcoreapp3.1\ContactList.AssemblyInfo.cs
+C:\Users\felipe.silva\Documents\Personal\DOJOProblems\CSharp\ContactList\obj\Debug\netcoreapp3.1\ContactList.dll
+C:\Users\felipe.silva\Documents\Personal\DOJOProblems\CSharp\ContactList\obj\Debug\netcoreapp3.1\ContactList.pdb

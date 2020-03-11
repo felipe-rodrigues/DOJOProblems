@@ -1,0 +1,11 @@
+C:\Users\felipe.silva\Documents\Personal\DOJOProblems\CSharp\DojoProblems\bin\Debug\netcoreapp3.1\ShortestReach.exe
+C:\Users\felipe.silva\Documents\Personal\DOJOProblems\CSharp\DojoProblems\bin\Debug\netcoreapp3.1\ShortestReach.deps.json
+C:\Users\felipe.silva\Documents\Personal\DOJOProblems\CSharp\DojoProblems\bin\Debug\netcoreapp3.1\ShortestReach.runtimeconfig.json
+C:\Users\felipe.silva\Documents\Personal\DOJOProblems\CSharp\DojoProblems\bin\Debug\netcoreapp3.1\ShortestReach.runtimeconfig.dev.json
+C:\Users\felipe.silva\Documents\Personal\DOJOProblems\CSharp\DojoProblems\bin\Debug\netcoreapp3.1\ShortestReach.dll
+C:\Users\felipe.silva\Documents\Personal\DOJOProblems\CSharp\DojoProblems\bin\Debug\netcoreapp3.1\ShortestReach.pdb
+C:\Users\felipe.silva\Documents\Personal\DOJOProblems\CSharp\DojoProblems\obj\Debug\netcoreapp3.1\ShortestReach.csprojAssemblyReference.cache
+C:\Users\felipe.silva\Documents\Personal\DOJOProblems\CSharp\DojoProblems\obj\Debug\netcoreapp3.1\ShortestReach.AssemblyInfoInputs.cache
+C:\Users\felipe.silva\Documents\Personal\DOJOProblems\CSharp\DojoProblems\obj\Debug\netcoreapp3.1\ShortestReach.AssemblyInfo.cs
+C:\Users\felipe.silva\Documents\Personal\DOJOProblems\CSharp\DojoProblems\obj\Debug\netcoreapp3.1\ShortestReach.dll
+C:\Users\felipe.silva\Documents\Personal\DOJOProblems\CSharp\DojoProblems\obj\Debug\netcoreapp3.1\ShortestReach.pdb

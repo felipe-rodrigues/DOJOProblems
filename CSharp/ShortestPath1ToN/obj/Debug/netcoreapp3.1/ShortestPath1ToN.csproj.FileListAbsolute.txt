@@ -1,0 +1,10 @@
+C:\Users\felipe.silva\Documents\Personal\DOJOProblems\CSharp\ShortestPath1ToN\bin\Debug\netcoreapp3.1\ShortestPath1ToN.exe
+C:\Users\felipe.silva\Documents\Personal\DOJOProblems\CSharp\ShortestPath1ToN\bin\Debug\netcoreapp3.1\ShortestPath1ToN.deps.json
+C:\Users\felipe.silva\Documents\Personal\DOJOProblems\CSharp\ShortestPath1ToN\bin\Debug\netcoreapp3.1\ShortestPath1ToN.runtimeconfig.json
+C:\Users\felipe.silva\Documents\Personal\DOJOProblems\CSharp\ShortestPath1ToN\bin\Debug\netcoreapp3.1\ShortestPath1ToN.runtimeconfig.dev.json
+C:\Users\felipe.silva\Documents\Personal\DOJOProblems\CSharp\ShortestPath1ToN\bin\Debug\netcoreapp3.1\ShortestPath1ToN.dll
+C:\Users\felipe.silva\Documents\Personal\DOJOProblems\CSharp\ShortestPath1ToN\bin\Debug\netcoreapp3.1\ShortestPath1ToN.pdb
+C:\Users\felipe.silva\Documents\Personal\DOJOProblems\CSharp\ShortestPath1ToN\obj\Debug\netcoreapp3.1\ShortestPath1ToN.AssemblyInfoInputs.cache
+C:\Users\felipe.silva\Documents\Personal\DOJOProblems\CSharp\ShortestPath1ToN\obj\Debug\netcoreapp3.1\ShortestPath1ToN.AssemblyInfo.cs
+C:\Users\felipe.silva\Documents\Personal\DOJOProblems\CSharp\ShortestPath1ToN\obj\Debug\netcoreapp3.1\ShortestPath1ToN.dll
+C:\Users\felipe.silva\Documents\Personal\DOJOProblems\CSharp\ShortestPath1ToN\obj\Debug\netcoreapp3.1\ShortestPath1ToN.pdb
