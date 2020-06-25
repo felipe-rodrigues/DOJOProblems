@@ -1,4 +1,4 @@
-﻿##Description
+##Description
 
 Given a list of numbers and a number k,  whether any two numbers from the list add up to k, return his indexes.
 
