@@ -1,4 +1,5 @@
 ﻿using CSharpSolutions.Easy;
+using CSharpSolutions.Easy.ReverteNumero;
 using System;
 
 namespace CSharpSolutions
@@ -7,7 +8,7 @@ namespace CSharpSolutions
     {
         static void Main(string[] args)
         {
-            var ex = new Soma2ValoresEsperandoK();
+            var ex = new ReverteNumero();
 
             ex.Run();
 
